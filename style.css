@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+section{
+    padding: 20px 10px;
+    background-color: #EFE4CE;
+}
+.navBar{
+    border-radius: 40px;
+    padding: 0px 50px;
+}
